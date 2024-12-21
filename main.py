@@ -2,7 +2,6 @@ import dearpygui.dearpygui as dpg
 from wifi_scan_utility import WifiScanUtility, AutoconfigStatus
 import ctypes
 import sys
-import subprocess
 from pathlib import Path
 import win32con
 import win32gui
