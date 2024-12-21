@@ -12,7 +12,7 @@ This app is a simple user interface allowing you to select your wifi interface o
 ![App GUI](assets/ProgramScreenshot.png)
 
 #### How to use:
-- Run program (get executable in releases tab or build it from source)
+- Run program (get executable in [releases](https://github.com/neongm/wifi-scan-toggle-gui/releases) tab or build it from source)
 - Start your wifi hotspot
 - Disable wifi scan in the program
 - Play wireless vr without regular stutters
