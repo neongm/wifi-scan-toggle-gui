@@ -1,0 +1,49 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# PyInstaller specific files
+*.spec
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE or editor folders (e.g., PyCharm, VSCode)
+.vscode/
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.bak
+*.swp
+
+# Pytest / Coverage reports
+.coverage
+*.cover
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# pyenv
+.python-version
+
+# Pipenv
+Pipfile.lock
