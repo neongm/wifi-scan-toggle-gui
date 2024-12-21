@@ -1,4 +1,6 @@
 # Rinvos WiFi Autoconfig Toggle
+Made in an hour for myself, but it seels to do the job so publishing it here to hopefully save some headache for people with the same issue.
+
 If you run your VR headeset wirelessly using WIFI Hotspot you definitely have noticed that every 15-30 seconds it starts to stutter terribly - this happens because by default windows runs scan for wifi networks every 15-30 seconds and during this scan performance of the hotspot drops a lot, resulting
 in stutters, lag, artifacting, etc. Annoying stuff. 
 
